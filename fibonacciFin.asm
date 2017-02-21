@@ -1,8 +1,8 @@
 !algorithmist.com Fibonacci
 
-!author:
+!author:Edwin Enriquez
 !Description about the program
-! in main funtion, r1 is used to stack the
+
 
 .begin
 .org 2048
